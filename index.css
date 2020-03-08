@@ -7,6 +7,7 @@
   font-family: pixelFont;
   display: flex;
   height: 100vh;
+  margin: 0;
 }
 
 .content {
@@ -23,4 +24,5 @@
 .subtitle {
   margin: 0 auto 10px;
   font-size: 20px;
+  text-align: center;
 }
